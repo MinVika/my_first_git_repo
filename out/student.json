@@ -1,0 +1,13 @@
+{
+  "firstName": "Oleg",
+  "lastName": "Markov",
+  "course": 3,
+  "GroupName": "EoME 2015-1",
+  "Budget": false,
+  "Debs for institute subjects": [
+    {"SubjectName":"Global Economy",
+    "Number of disable modules":2},
+    {"SubjectName":"Philosophy",
+    "Number of disable modules":1}
+  ]
+}
