@@ -1,0 +1,9 @@
+<student>
+    <studentName firstName="Oleg" justName="Markov" course="3" GroupName="EoME 2015-1" Budget="false"/>
+    <activities>
+        <DebsForInstibuteSubjects>
+            <activity SubjectName="Global Economy" NumberOfDisableModules="2"/>
+            <activity SubjectName="Philosophy" NumberOfDisableModules="1"/>
+        </DebsForInstibuteSubjects>
+    </activities>
+</student>
