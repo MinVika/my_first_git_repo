@@ -1,0 +1,13 @@
+student:
+  firstName: Oleg
+  lastName: Markov
+  course: 3
+  GroupName: EoME2015-1
+  Budget: false
+  Debs for institute subjects:
+    First subject:
+     Subject_name: Global Economy
+     Number_of_disable_modules: 2
+    Second subject:
+     Subject name: Philosophy
+     Number of disable modules: 1
