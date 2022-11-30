@@ -3,7 +3,7 @@
     <activities>
         <DebsForInstibuteSubjects>
             <activity SubjectName="Global Economy" NumberOfDisableModules="2"/>
-            <activity SubjectName="Phylosophy" NumberOfDisableModules="1"/>
+            <activity SubjectName="Philosophy" NumberOfDisableModules="1"/>
         </DebsForInstibuteSubjects>
     </activities>
 </student>
